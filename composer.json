@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "life2016\\dingding\\": "src/"
+            "life2016\\dingtalk\\": "src/"
         }
     },
     "minimum-stability": "dev",
