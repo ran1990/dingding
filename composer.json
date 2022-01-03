@@ -1,19 +1,17 @@
 {
     "name": "life2016/dingtalk",
     "description": "aliyun dingding old sdk ,钉钉老版本SDk 集成命名空间",
-    "keywords": ["dingding", "src/dingtalk", "yii2-dingtalk", "Old SDK"],
+    "keywords": ["dingding", "src-dingtalk", "yii2-dingtalk", "Old SDK"],
     "license": "MIT",
     "homepage": "https://github.com/ran1990/dingding/issues",
     "authors": [
         {
             "name": "ran",
-            "email": "r503948796@163.com",
-            "homepage": "https://github.com/ran1990"
+            "email": "r503948796@163.com"
         }
     ],
     "support": {
-        "issues": "https://github.com/ran1990/dingding/issues",
-        "source": "https://github.com/ran1990/dingding"
+        "issues": "https://github.com/ran1990/dingding/issues"
     },
     "require": {
         "php": ">=7.0.0"
