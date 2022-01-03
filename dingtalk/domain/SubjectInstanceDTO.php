@@ -1,0 +1,29 @@
+<?php
+
+namespace common\components\dingding\dingtalk\domain;
+
+
+/**
+ * 学科实例列表
+ * @author auto create
+ */
+class SubjectInstanceDTO
+{
+
+    /**
+     * 学段编码
+     **/
+    public $period_code;
+
+    /**
+     * 学科编码
+     **/
+    public $subject_code;
+
+    /**
+     * 学科名称
+     **/
+    public $subject_name;
+}
+
+?>

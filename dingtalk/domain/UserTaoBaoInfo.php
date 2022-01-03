@@ -1,0 +1,24 @@
+<?php
+
+namespace common\components\dingding\dingtalk\domain;
+
+
+/**
+ * 结果对象
+ * @author auto create
+ */
+class UserTaoBaoInfo
+{
+
+    /**
+     * 关联的支付宝帐号
+     **/
+    public $alipay_info;
+
+    /**
+     * 淘宝帐号
+     **/
+    public $taobao_info;
+}
+
+?>
