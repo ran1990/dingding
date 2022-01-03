@@ -1,6 +1,6 @@
 <?php
 
-namespace life2016\top\security;
+namespace life2016\dingtalk\top\security;
 
 /**
  * 缓存接口，如果不想使用yac缓存，需要自己去使用这个接口

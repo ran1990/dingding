@@ -1,6 +1,6 @@
 <?php
 
-namespace life2016\top\security;
+namespace life2016\dingtalk\top\security;
 
 
 class TopSecretGetRequest
