@@ -1,6 +1,6 @@
 <?php
 
-namespace life2016\dingding\top;
+namespace life2016\top;
 
 class TopClient
 {

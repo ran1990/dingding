@@ -1,6 +1,6 @@
 <?php
 
-namespace life2016\dingding\top\security;
+namespace life2016\top\security;
 
 class SecretCounterUtil
 {
