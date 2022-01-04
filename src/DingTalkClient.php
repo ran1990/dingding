@@ -2,6 +2,8 @@
 
 namespace life2016\dingtalk;
 
+use life2016\dingtalk\top\ResultSet;
+
 class DingTalkClient
 {
     /**@Author chaohui.zch copy from TopClient and modify 2016-12-14 * */
