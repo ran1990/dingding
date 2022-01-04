@@ -2,6 +2,8 @@
 
 namespace life2016\dingtalk\request;
 
+use life2016\dingtalk\top\RequestCheckUtil;
+
 
 /**
  * dingtalk API: dingtalk.oapi.im.chat.scencegroup.file.downloadurl.get request

@@ -2,6 +2,8 @@
 
 namespace life2016\dingtalk\request;
 
+use life2016\dingtalk\top\RequestCheckUtil;
+
 
 /**
  * dingtalk API: dingtalk.oapi.call_back.update_call_back request

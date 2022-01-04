@@ -2,6 +2,8 @@
 
 namespace life2016\dingtalk\request;
 
+use life2016\dingtalk\top\RequestCheckUtil;
+
 
 /**
  * dingtalk API: dingtalk.oapi.hire.auth.role.getbyuser request
