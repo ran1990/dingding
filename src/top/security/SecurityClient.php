@@ -508,7 +508,7 @@ class SecurityClient
 
         $response = $this->topClient->execute($request, $topSession);
         if ($response->code != 0) {
-            throw new Exception($response->msg);
+            throw new \Exception($response->msg);
         }
 
         $time                          = time();
